@@ -19,8 +19,8 @@ A mobile application that enables users to request **emergency microloans** with
 
 ### Backend
 - Clone the repository:  
-  `git clone <your-repo-url>`  
-  `cd <repo-folder>`  
+  `git clone https://github.com/thanseera172/Emergix-App.git
+  `cd Emergix-App 
 - Install dependencies:  
   `pip install flask flask-cors firebase-admin`  
 - Add your Firebase service account key as `serviceAccountKey.json`  
