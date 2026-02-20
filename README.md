@@ -2,7 +2,7 @@
 
 A mobile application that enables users to request **emergency microloans** with **voice verification** and **location tracking**.
 
-- **Frontend:** MIT App Inventor (`.aia` project)  
+- **Frontend:** MIT App Inventor (`.aia` project) 
 - **Backend:** Python Flask + Firebase Realtime Database  
 
 ---
