@@ -43,5 +43,3 @@ A mobile application that enables users to request **emergency microloans** with
 
 ---
 
-## License
-This project is licensed under the **MIT License**
