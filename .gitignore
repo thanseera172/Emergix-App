@@ -1,0 +1,2 @@
+# Ignore Firebase/Google service account key
+backend/serviceAccountKey.json
